@@ -2,6 +2,7 @@
 
 A Retrieval-Augmented Generation (RAG) chatbot that answers questions from your uploaded PDFs using **Llama 3.3 70B** via Groq + **FAISS** vector search.
 
+## **Live Demo (https://ai-knowledge-assistant-ejhw9zpbrpudjucxpcghsh.streamlit.app/)**
 ---
 
 ## 🚀 Quick Setup
