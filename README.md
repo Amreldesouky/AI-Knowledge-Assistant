@@ -84,8 +84,7 @@ rag_chatbot/
 - Groq free tier: ~30 requests/min
 
 
-##  https://drive.google.com/file/d/1shDsuzk97TJk4wX0Zl08ytFNp-WkxEl5/view?usp=drissvesdk
-
+##  video ( https://drive.google.com/file/d/1shDsuzkfajs97TJk4wX0Zl08ytFNp-WkxEl5/view?usp=drissvesdk)
 ## 🔧 Improvements
 
 - Add Sentence Transformers for semantic embeddings
